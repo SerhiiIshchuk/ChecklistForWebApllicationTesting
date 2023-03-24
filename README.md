@@ -300,6 +300,8 @@ Spoon.net: Spoon.net надає доступ до тисяч додатків (�
 
 •	Borland Silk Performer
 
+•	Rational Performance Tester
+
 
 
 
